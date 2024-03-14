@@ -1,3 +1,5 @@
+package com.jc.一维差分和二维差分;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
