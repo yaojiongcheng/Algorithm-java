@@ -12,11 +12,6 @@ public class Main {
 
     }
 
-    private static boolean check(int mid) {
-
-        return true;
-    }
-
     private static String nextString() throws Exception {
         st.nextToken();
         return st.sval;

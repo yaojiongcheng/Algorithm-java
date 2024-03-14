@@ -1,3 +1,5 @@
+package com.jc.前缀和;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -6,7 +8,7 @@ import java.util.Scanner;
 * @description 前缀和
 * @Date 2023-10-12 00:16
 * @Version 1.0
-/
+*/
 public class Main{
 
     public static void main(String[] args) {
