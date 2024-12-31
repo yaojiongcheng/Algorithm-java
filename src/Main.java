@@ -10,7 +10,7 @@ public class Main {
     public static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws Exception {
-        scanner = new Scanner(System.in);
+
     }
 
     private static String nextString() throws Exception {
